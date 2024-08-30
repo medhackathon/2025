@@ -29,13 +29,34 @@ The primary objective of the MedHackathon is to establish a robust networking pl
 - A reference panel for genomic data that can be used by researchers across Asia.
 - Documentation and guidelines for best practices in medical informatics research.
 
+## Key Dates
+
+- Early October: registration opens
+- End of December: registration closes
+
 ## Tentative Schedule
 
-3-7 February 2025
+February 3-7, 2025
 
-## Tentative place
+- Monday, 3rd
+  - Morning: Gather at Bangkok, move to the Burapha University
+  - Afternoon: Opening session
+- Tuesday, 4th
+  - Morning: Tutorial session
+  - Afternoon: Hackathon
+- Wednesday, 5th
+  - Morning: Tutorial session
+  - Afternoon: Hackathon
+- Thursday, 6th
+  - Morning: Tutorial session
+  - Afternoon: Hackathon
+- Friday, 7th
+  - Morning: Wrap-up session
+  - Afternoon: Move to Bangkok
 
-Buri, Chonburi, Thailand
+## Venue and Accommodation
+
+[Burapha University](https://www.buu.ac.th/), Buri, Chonburi, Thailand
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
