@@ -3,7 +3,7 @@
   <img width="200" src="images/MedHackathon_logo.png">
 </p>
 
-# MedHackathon 2025
+# MedHackathon Asia 2025
 
 ## Background
 
@@ -57,6 +57,29 @@ February 3-7, 2025
 ## Venue and Accommodation
 
 [Burapha University](https://www.buu.ac.th/), Buri, Chonburi, Thailand
+
+## Organing committee
+
+- Jakris Eu-ahsunthornwattana (Mahidol University, Thailand)
+- Toyofumi Fujiwara (Database Center for Life Science, Japan)
+- Tsuyoshi Hachiya (Genome Analytics Japan, Inc., Japan)
+- Mayumi Kamada (Kitasato University, Japan)
+- Toshiaki Katayama (Database Center for Life Science, Japan)
+- Yosuke Kawai (National Center for Global Health and Medicine, Japan)
+- Shuichi Kawashima (Database Center for Life Science, Japan)
+- Mark Landry (World Health Organization, Thailand)
+- Surakameth Mahasirimongkol (Thailand National Science and Technology Development Agency, Thailand)
+- Pitiporn Noisagul (Chiang Mai University, Thailand)
+- Soichi Ogishima (Tohoku University, Japan)
+- Tazro Ohta (Chiba University, Japan)
+- Wasin Poncheewin (National Center for Genetic Engineering and Biotechnology, Thailand)
+- Surasak Sangkhathat (Prince of Songkla University, Thailand)
+- Nuttinee Teerakulkittipong (Burapha University, Thailand)
+- Licht Toyo-oka (Toyama University of International Studies, Japan)
+
+## Contact
+
+Please join our google group at [MedHackathon Asia](https://groups.google.com/u/4/g/medhackathon-asia) or email to [MedHackathon Asia 2025 organizers](mailto:admin-medhackathon-asia@googlegroups.com)
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
