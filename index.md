@@ -56,7 +56,11 @@ February 3-7, 2025
 
 ## Venue and Accommodation
 
-[Burapha University](https://www.buu.ac.th/), Buri, Chonburi, Thailand
+- [Burapha University](https://www.buu.ac.th/), Chon Buri District, Chon Buri 20131, Thailand
+  - Hackathon venue
+    - Faculty of Pharmaceutical Sciences ([map](https://maps.app.goo.gl/t2eSSBfQ2Jk7tLGFA))
+  - Accommodation
+    - BUU HOTEL ([map](https://maps.app.goo.gl/pGer7oh8WF2mjkdd9))
 
 ## Organing committee
 
