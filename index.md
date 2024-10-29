@@ -31,7 +31,7 @@ The primary objective of the MedHackathon is to establish a robust networking pl
 
 ## Key Dates
 
-- Early October: registration opens
+- November: registration opens
 - End of December: registration closes
 
 ## Tentative Schedule
