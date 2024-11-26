@@ -64,7 +64,7 @@ February 3-7, 2025
 
 ## Sponsor
 
-We gratefully acknowledge the support of the Health Intervention and Technology Assessment Program Foundation of Thailand, whose generous funding has made this event possible. Their contribution has been instrumental in covering the venue fee, welcome dinner, and lunch throughout the event.
+We gratefully acknowledge the support of the [Health Intervention and Technology Assessment Program Foundation](https://www.hitap.net/en/) of Thailand, whose generous funding has made this event possible. Their contribution has been instrumental in covering the venue fee, welcome dinner, and lunch throughout the event.
 
 ## Organing committee
 
