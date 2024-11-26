@@ -62,6 +62,10 @@ February 3-7, 2025
   - Accommodation
     - BUU HOTEL ([map](https://maps.app.goo.gl/pGer7oh8WF2mjkdd9))
 
+## Sponsor
+
+We gratefully acknowledge the support of the Health Intervention and Technology Assessment Program Foundation of Thailand, whose generous funding has made this event possible. Their contribution has been instrumental in covering the venue fee, welcome dinner, and lunch throughout the event.
+
 ## Organing committee
 
 - Jakris Eu-ahsunthornwattana (Mahidol University, Thailand)
