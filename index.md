@@ -62,6 +62,14 @@ February 3-7, 2025
   - Accommodation
     - BUU HOTEL ([map](https://maps.app.goo.gl/pGer7oh8WF2mjkdd9))
 
+## Expected participants
+
+This event is primarily aimed at researchers, data scientists, and professionals in the fields of human genetics and medical informatics across Asian communities. By focusing on the unique challenges and opportunities within the region, the MedHackathon seeks to bring together experts to collaborate, share knowledge, and contribute to advancing the field of medical informatics in Asia.
+
+## Registration
+
+The registration form will be open soon. The registration will close at the end of December 2024. We will send you a confirmation of your participation in early January 2025.
+
 ## Sponsor
 
 We gratefully acknowledge the support of the [Health Intervention and Technology Assessment Program Foundation](https://www.hitap.net/en/) of Thailand, whose generous funding has made this event possible. Their contribution has been instrumental in covering the venue fee, welcome dinner, and lunch throughout the event.
