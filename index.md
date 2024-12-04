@@ -40,6 +40,7 @@ February 3-7, 2025
 
 - Monday, 3rd
   - Morning: Gather at Bangkok, move to the Burapha University
+    - The bus will depart from Suvarnabhumi Airport at 10:00 AM
   - Afternoon: Opening session
 - Tuesday, 4th
   - Morning: Tutorial session
@@ -53,6 +54,7 @@ February 3-7, 2025
 - Friday, 7th
   - Morning: Wrap-up session
   - Afternoon: Move to Bangkok
+    - The bus will depart from Burapha University at 12:00 PM (noon) and is expected to arrive at Suvarnabhumi Airport by approximately 1:30 PM.
 
 ## Venue and Accommodation
 
