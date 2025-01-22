@@ -70,7 +70,7 @@ This event is primarily aimed at researchers, data scientists, and professionals
 
 ## Registration
 
-Please register from [here](https://forms.gle/q2TYu5oh2ss72xh27). The registration will close at the end of December 2024. We will send a confirmation of your participation in early January 2025.
+Registration has been closed.
 
 ## Sponsor
 
