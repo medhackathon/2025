@@ -29,12 +29,9 @@ The primary objective of the MedHackathon is to establish a robust networking pl
 - A reference panel for genomic data that can be used by researchers across Asia.
 - Documentation and guidelines for best practices in medical informatics research.
 
-## Key Dates
+## Schedule
 
-- November: registration opens
-- End of December: registration closes
-
-## Tentative Schedule
+**[The full schedule](https://github.com/medhackathon/2025/wiki/Schedule) is available now!**
 
 February 3-7, 2025
 
